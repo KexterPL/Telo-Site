@@ -1,0 +1,27 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="telo.pl" resolutions="1x" timestamp="1567286489924">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="komendy.css" crc="255078110" ref="komendy"/>
+    <file name="index.css" crc="187622469" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:komendy"/>
+    <file name="museutils.js" crc="340535759" ref="index:komendy"/>
+    <file name="whatinput.js" crc="86476730" ref="index:komendy"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:komendy"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:komendy"/>
+    <file name="require.js" crc="7928878" ref="index:komendy"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u204_states.png" crc="434953215" ref="index"/>
+    <file name="u204_states-r.png" crc="4031385463" ref="index"/>
+    <file name="u192-4.png" crc="330652809" ref="index"/>
+    <file name="u195-4.png" crc="4185905695" ref="index"/>
+    <file name="u188-5-a.png" crc="405919822" ref="index"/>
+    <file name="u269-5.png" crc="405919822" ref="komendy"/>
+    <file name="u264-4-a.png" crc="434953215" ref="komendy"/>
+  </folder>
+  <file name="index.html" crc="335445639" seo="true" mt="1567285569715" redirect="true"/>
+  <file name="komendy.html" crc="4028553533" seo="true" mt="1567286048797" redirect="true"/>
+</manifest>
